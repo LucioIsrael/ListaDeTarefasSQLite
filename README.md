@@ -1,7 +1,7 @@
 # Lista De Tarefas com SQLite
 
 Com este projeto que foi um grande aprendizado pra mim utilizei o banco de dados SQLite e aprendi a separar os códigos usando o padrão DAO (Data Acess Object), 
-É bem util esta aplicação até baixei um apk para utilizar no meu celular kk,
+É bem util esta aplicação até baixei um apk para utilizar no meu celular. Irei refatorar o código em kotlin futuramente e subirei outro repositório
 
 - O Que foi utilizado para fazer este aplicativo ?
 - # Android Studio - Versão 7.1.0
